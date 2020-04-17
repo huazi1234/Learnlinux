@@ -29,3 +29,5 @@ root@ubuntu:/home/user# ps afx|grep apt
 root@ubuntu:/home/user# sudo kill -9 2765
 root@ubuntu:/home/user# sudo kill -9 2766
 root@ubuntu:/home/user# sudo kill -9 1235
+
+5.liunx（ubantu）虚拟机里运行不了 需要GPU交互的OPENGL程序？？
